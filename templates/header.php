@@ -70,7 +70,6 @@
             transition: transform 2s ease-in-out;
         }
         /* end of card styling */
-
     </style>
 </head>
 <body class="blue lighten-4">
